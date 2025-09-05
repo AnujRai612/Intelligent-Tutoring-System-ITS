@@ -1,2 +1,2 @@
-# Intelligent-Tutoring-System-ITS-
+# Intelligent-Tutoring-System-ITS
 RAG App
