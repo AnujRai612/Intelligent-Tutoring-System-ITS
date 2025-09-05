@@ -1,0 +1,17 @@
+LSTM (Long Short-Term Memory) networks are a special kind of RNN (Recurrent Neural Network) 
+capable of learning long-term dependencies. They were introduced by Hochreiter and Schmidhuber in 1997. 
+LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long 
+periods of time is practically their default behavior.
+
+Key components of LSTM:
+1. Cell State: Acts as a memory of the network.
+2. Forget Gate: Decides what information to discard from the cell state.
+3. Input Gate: Decides which values from the input will update the cell state.
+4. Output Gate: Decides what part of the cell state will be output.
+
+Applications of LSTMs:
+- Speech recognition
+- Language modeling
+- Text generation
+- Machine translation
+- Time series forecasting

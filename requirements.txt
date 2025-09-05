@@ -1,0 +1,31 @@
+# tensorflow==2.17.0
+# langchain==0.0.255
+# langchain-community==0.0.3
+# huggingface_hub==0.16.4
+# tokenizers
+# transformers==4.11.3
+# spacy==3.6.1
+# torch==2.1.0
+# numpy==1.24.2
+# pandas==2.1.2
+# scipy==1.10.0
+# scikit-learn==1.2.2
+# faiss-cpu==1.7.4
+
+tensorflow==2.17.0
+torch==2.1.0
+numpy==1.24.2
+pandas==2.1.2
+scipy==1.10.0
+scikit-learn==1.2.2
+faiss-cpu==1.7.4
+spacy==3.6.1
+
+# Hugging Face stack (keep old to match transformers 4.11.3)
+transformers==4.30.2
+tokenizers==0.13.3
+huggingface_hub==0.0.19
+
+# LangChain pinned to what repo expects
+langchain==0.0.255
+langchain-community==0.0.3
