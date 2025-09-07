@@ -25,7 +25,7 @@ Streamlit – To build an interactive user interface for the tutoring system
 Prerequisites:
 Python 3.7+
 Install required libraries via requirements.txt:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 Running the System:
 Clone the repository:
 git clone <repo-url>
