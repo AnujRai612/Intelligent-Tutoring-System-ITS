@@ -25,13 +25,24 @@ Streamlit – To build an interactive user interface for the tutoring system
 Prerequisites:
 Python 3.7+
 Install required libraries via requirements.txt:
+
+
 `pip install -r requirements.txt`
+
+
 Running the System:
 Clone the repository:
-git clone <repo-url>
-cd GenAI_LLM_RAG_Tutoring_System
+
+
+`git clone <repo-url>`
+
+
+`cd GenAI_LLM_RAG_Tutoring_System`
+
 Run the Streamlit app:
-streamlit run app.py
+
+
+`streamlit run app.py`
 
 🔥 Why RAG?
 RAG systems enhance the capabilities of LLMs by incorporating external knowledge through retrieval. This enables more accurate, context-aware responses, which is particularly useful for personalized tutoring systems like this one. By combining retrieval and generation, you can adapt learning experiences to each learner’s needs in real-time.
